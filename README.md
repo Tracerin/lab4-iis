@@ -1,5 +1,5 @@
 # Lab 4 
-link: 
+link: https://youtube.com/shorts/x1GWsBcruCI?si=NtY0X29H3QBXrUzt 
 ## My interactive system
 - Cube cube
 - Renders a cube on a display that rotates as you rotate the real cube (pretend it is not a sad rectangular prism)
