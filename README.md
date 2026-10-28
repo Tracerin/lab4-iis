@@ -12,4 +12,11 @@ link:
 - Similar calibration sequence on cap wires as previous labs
 - Cube is rendered as 8 points with all 12 edges always visible
 
+## To Run
+- Once sketch is uploaded, follow calibration sequence instructions on screen
+- Once touch and gyro calibrations have finished, you may rotate the physical cube in your hands to rotate the digital one accordingly
+- Touch the touch cap wire to increase the speed
+- Touch the bottom left cap wire to increase the fisheye effect (moves camera closer to cube)
+- Touching the bottom right cap wire at the same time as either of the two previous actions will cause them to be inverted\
+
 AI generated code was used for this sketch
